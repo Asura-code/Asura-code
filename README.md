@@ -1,6 +1,7 @@
 ## <div align="center"> 👋 Sup, im Asura </div>
 
-<div align="center">![image](https://github.com/user-attachments/assets/e912ffc2-63d1-4aa6-9026-70bf73913f10)</div>
+<div align="center"><img src="https://i.pinimg.com/1200x/27/51/57/275157fa06a378154559f67ef1bf4eea.jpg" />
+</div>
 
 # I’m currently learning react js and web development in general
 # I love programming and cybersecurity. I know the basics of python, go, js, postgresql, html, css and react (I'm learning the basics now 😄)
