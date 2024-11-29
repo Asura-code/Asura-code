@@ -1,5 +1,9 @@
-## Hi there 👋
+## 👋 Welcome to my profile
 
+![image](https://github.com/user-attachments/assets/e912ffc2-63d1-4aa6-9026-70bf73913f10)
+
+# I’m currently learning react js and web development in general
+#I love programming and cybersecurity. I know the basics of python, go, js, postgresql, html, css and react (I'm learning the basics now 😄)
 <!--
 **Asura-code/Asura-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
