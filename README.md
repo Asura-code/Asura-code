@@ -3,7 +3,7 @@
 <div align="center"><img src="https://i.pinimg.com/1200x/27/51/57/275157fa06a378154559f67ef1bf4eea.jpg" />
 </div>
 
-- When everyone says that neural networks will replace programmers, but you're just a chill guy who likes to write websites <br>
+- When everyone says that AI will replace programmers, but you're just a chill guy who likes to write websites <br>
 
 - I’m currently learning react js and web development in general
 - I love programming and cybersecurity. I know the basics of python, go, js, postgresql, html, css and react (learning the basics now 😄)
